@@ -13,6 +13,9 @@ Run Migrations: Use php artisan migrate command to set up the necessary database
 Start the Server: Launch the development server using php artisan serve to view the project in your browser.
 
 ## Image Upload
+
+![Screenshot](https://github.com/abhishek-one/simple-react-laravel-frontend/blob/master/public/Application%20SS.png)
+
 For uploading product images, a collection of logos has been provided in the public folder.
 
 Feel free to explore and enhance your React and Laravel skills with this project!
